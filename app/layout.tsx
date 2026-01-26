@@ -8,8 +8,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Ahmed Al-Mansouri | Luxury Real Estate Agent',
-  description: 'Premium luxury real estate specialist in Dubai. Dedicated to finding the perfect property matching your vision with 15+ years of expertise.',
+  title: 'Clayton Padzarandara | Luxury Real Estate Property Consultant',
+  description: 'Premium luxury real estate specialist in Dubai. Dedicated to finding the perfect property matching your vision with 3+ years of expertise.',
   generator: 'v0.app',
   icons: {
     icon: [
