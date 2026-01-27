@@ -12,10 +12,17 @@ export function Footer() {
           </div>
 
           {/* Center - Company Name */}
-          <div className="text-center">
-            <p className="text-xs sm:text-sm font-medium text-[oklch(0.25_0_0)]">
+          <div className="text-center md:text-center space-y-1">
+            <a
+              href="https://deenpropertiesuae.com/"
+              className="text-primary hover:text-primary/80 transition-colors text-xs sm:text-sm font-medium block break-all"
+            >
               Deen Properties
-            </p>
+            </a>
+            
+          <a href="tel:+971508858144" className="w-full">
+            <p className="text-xs sm:text-sm text-[oklch(0.48_0_0)] font-light">+971 50 885 8144</p>
+            </a>
           </div>
 
           {/* Right Side - Contact */}
